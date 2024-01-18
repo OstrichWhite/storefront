@@ -1,4 +1,4 @@
-const Navbar = () => <div>Navbar</div>;
+import Navbar from "./Navbar";
 const MainPage = () => <div>MainPage</div>;
 
 function App() {
