@@ -1,13 +1,5 @@
-import Navbar from "./Components/Navbar";
-const MainPage = () => <div>MainPage</div>;
+import Home from "./Pages/Home";
 
-function App() {
-  return (
-    <>
-      <Navbar />
-      <MainPage />
-    </>
-  );
-}
+const App = () => <Home />;
 
 export default App;
