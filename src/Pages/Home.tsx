@@ -1,7 +1,7 @@
 import Navbar from "../Components/Navbar";
 
 const Hero = () => (
-  <div className="bg-slate-400 h-full">
+  <div>
     <div>Hero Element</div>
   </div>
 );
